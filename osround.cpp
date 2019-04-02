@@ -65,9 +65,10 @@ int main()
         cout<<"\nP["<<p[i]<<"]\t\t  "<<bt[i]<<"\t\t    "<<wt[i]<<"\t\t\t"<<tat[i];
     }
  
-    avg_tat=total/n;     //average turnaround time
+    avg_tat=total/n;    
     cout<<"\n\nAverage Waiting Time="<<avg_wt;
     cout<<"\nAverage Turnaround Time="<<avg_tat;
  
     return 0;
+    //return 0;
 }
