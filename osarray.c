@@ -24,7 +24,7 @@
                 {
                     a = number[i];
                     number[i] = number[j];
-                    number[j] = a;
+                    number[j] = a;//number 
                 }
             }
         }
