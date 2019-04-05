@@ -34,7 +34,7 @@
         {
             printf("%d\n", number[i]);
         }
- 
+ return 0;
     }
     
 
