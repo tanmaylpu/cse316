@@ -14,7 +14,7 @@
 	    scanf("%d", &number[i]);
 		}
  
-        /*  sorting begins ... */
+       
  
         for (i = 0; i < n; ++i) 
         {
